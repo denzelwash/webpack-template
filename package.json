@@ -1,5 +1,5 @@
 {
-  "name": "excel-project",
+  "name": "webpack-template",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -10,20 +10,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/denzelwash/excel-project.git"
+    "url": "git+https://github.com/denzelwash/webpack-template.git"
   },
   "keywords": [
     "js",
     "javascript",
-    "excel"
+    "webpack"
   ],
   "author": "Denis Obolevich <denzelwash33@mail.ru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/denzelwash/excel-project/issues"
+    "url": "https://github.com/denzelwash/webpack-template/issues"
   },
   "browserslist": "> 0.25%, not dead",
-  "homepage": "https://github.com/denzelwash/excel-project#readme",
+  "homepage": "https://github.com/denzelwash/webpack-template#readme",
   "private": true,
   "devDependencies": {
     "@babel/core": "^7.9.6",
